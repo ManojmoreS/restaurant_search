@@ -1,3 +1,15 @@
+.search_box{
+  border: 1px solid transparent;
+  width: 60%;
+  height: 50px;
+  padding: 0 12px;
+  fontSize: 14px;
+  outline: none;
+}
+.input-group {
+  width: 75%;
+  padding-left: 25%
+}
 .App {
   text-align: center;
 }
