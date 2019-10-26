@@ -1,6 +1,6 @@
 Basic React app to search for restaurants using Yelp API and Google API
 
-<a href="https://imgflip.com/gif/3eewu5"><img src="https://i.imgflip.com/3eewu5.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/3eex2t"><img src="https://i.imgflip.com/3eex2t.gif" title="made at imgflip.com"/></a>
 
 
 ### `npm start`
