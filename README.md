@@ -1,8 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Basic React app to search for restaurants using Yelp API and Google API
 
-## Available Scripts
+<a href="https://imgflip.com/gif/3eewu5"><img src="https://i.imgflip.com/3eewu5.gif" title="made at imgflip.com"/></a>
 
-In the project directory, you can run:
 
 ### `npm start`
 
